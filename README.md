@@ -4,7 +4,7 @@
 
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;vuejs+for+life">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+IA;Data+for+life">
     <h3 align="center">Passionate about data, analytics, and AI-driven solutions.</h3>
     <h3 align="center">I'm data scientist</h3>
 </p>
