@@ -10,26 +10,21 @@
 </p>
 <!-- Technos -->
 <h1 align="center">Languages and Tools 🛠</h1>
-<h3 align="center">Basics</h3>
-<p align="center">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-	</a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
-	</a>
-
-</p>
 <h3 align="center">IA/ML</h3>
 <p align="center">
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" 
      alt="pandas" width="40" height="40"/> </a>
-    <a href="https://nuxtjs.org/" target="_blank"> <img src="https://develop365.gitlab.io/nuxtjs-2.3.X-doc/es/logos/nuxt-icon-white.png" alt="nuxt" width="50" height="50"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
-    <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/> </a>
-	<a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://tiiny.host/blog/assets/images/1_adcnxab1qc_5kf8juxdeya.png" alt="threejs" width="70" height="40"/> </a>
-	<a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="gsap" width="40" height="40"/> </a>
+    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
+   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
+   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+</p>
+<h3 align="center">Programming Language</h3>
+<p align="center">
+   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+   </a>
+   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </p>
 <h3 align="center">Project management</h3>
 <p align="center">
